@@ -29,3 +29,5 @@ Functions implemented in freq_filters.py:
 Functions implemented in scaling_functions.py:
 - im2double, scaling function to [0,1]
 - im2uint8, scaling function to [0,255]
+
+Last updated: 2026-10-13 15:58 UTC
