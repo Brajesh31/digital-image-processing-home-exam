@@ -30,4 +30,4 @@ Functions implemented in scaling_functions.py:
 - im2double, scaling function to [0,1]
 - im2uint8, scaling function to [0,255]
 
-Last updated: 2026-10-25 00:56 UTC
+Last updated: 2026-10-25 05:54 UTC
